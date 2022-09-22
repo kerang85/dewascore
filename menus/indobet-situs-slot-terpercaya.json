@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle indobet-situs-slot-terpercaya",
+        "command": "indobet-situs-slot-terpercaya:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "indobet-situs-slot-terpercaya",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "indobet-situs-slot-terpercaya:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

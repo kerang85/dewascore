@@ -1,0 +1,31 @@
+{
+  "name": "dewascore-situs-slot-terpercaya",
+  "main": "./lib/indobet-situs-slot-terpercaya",
+  "version": "3.2.12",
+  "description": "Indobet merupakan situs slot terpercaya nomor satu di Indonesia. Segera daftar indobet dan juga login indobet menggunakan link alternatif indobet",
+  "keywords": [
+    "dewascore",
+    "login dewascore",
+    "daftar dewascore",
+    "link alternatif dewascore",
+    "situs slot",
+    "slot online",
+    "slot gacor",
+    "slot terpercaya",
+    "slot terbaik",
+    "slot pragmatic",
+    "slot terbaru",
+    "situs judi",
+    "judi online",
+    "slot online terpercaya"
+  ],
+  "activationCommands": {
+    "atom-workspace": "dewascore-situs-slot-terpercaya:toggle"
+  },
+  "repository": "https://github.com/kerang86/dewascore",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
